@@ -6,5 +6,6 @@ Hey there 👋
 
 I like vegemite and Haskell!
 <p>
-<img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white" />
+<img alt="Zig" src="https://img.shields.io/badge/zig-blue?logo=zig&style=flat-square" />
+<img alt="Haskell" src="https://img.shields.io/badge/haskell-blue?logo=haskell&style=flat-square" />
 </p>
